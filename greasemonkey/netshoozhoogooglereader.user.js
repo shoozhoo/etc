@@ -4,7 +4,7 @@
 // @include        http://www.google.co.jp/reader/view/*
 // ==/UserScript==
 //
-// Google Reader‚Ìã‚Ì—]”’‚ğŒ¸‚ç‚µ‚Ä–{•¶‚ÌƒGƒŠƒA‚ğL‚°‚é
+// Google Readerã®ä¸Šã®ä½™ç™½ã‚’æ¸›ã‚‰ã—ã¦æœ¬æ–‡ã®ã‚¨ãƒªã‚¢ã‚’åºƒã’ã‚‹
 //
 (function(){
 	function style(id, name, val){
