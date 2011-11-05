@@ -14,9 +14,11 @@
 			console.log(name+"/"+val);
 		}
 	}
-	style("viewer-header","height","30px");
-	style("lhn-add-subscription-section","height","30px");
-	style("top-bar","height","40px");
+	style("viewer-header","height","20px");
+	style("lhn-add-subscription-section","height","20px");
+	style("lhn-add-subscription-section","overflow","hidden");
+	//style("top-bar","height","40px");
+	style("top-bar","display","none");//検索非表示
 	style("title-and-status-holder","height","15px");
 	style("title-and-status-holder","padding","2px");
 	style("chrome-title","fontSize","8px");
